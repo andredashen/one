@@ -1,0 +1,5 @@
+#bash
+git clone https://github.com/andredashen/one
+cd one
+chmod +x gaganode
+./gaganode
